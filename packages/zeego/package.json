@@ -80,7 +80,7 @@
     "@react-native-menu/menu": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-ios-context-menu": "^2.3.2"
+    "react-native-ios-context-menu": "^1.15.3"
   },
   "jest": {
     "preset": "react-native",
